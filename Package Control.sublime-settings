@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Anaconda",
+		"AngularJS",
+		"Autoprefixer",
+		"Boxy Theme",
+		"Color Highlighter",
+		"ColorPicker",
+		"Cython+",
+		"Emmet",
+		"Front End Snippets",
+		"Git",
+		"GitGutter",
+		"HTML Snippets",
+		"HTML-CSS-JS Prettify",
+		"JavaScript & NodeJS Snippets",
+		"Minify",
+		"Package Control",
+		"Placeholders",
+		"Python 3",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"TypeScript"
+	]
+}
